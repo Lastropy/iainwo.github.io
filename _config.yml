@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "THE DAILY DISTRIBUTION"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "IAIN WONG"
+description              : "A very interesting stats, ML and AI blog 🤖"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -136,22 +136,19 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/iainwo
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/iainwo
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: https://gitlab.com/iainwong
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/iainwo/?hl=en
 
 
 # Reading Files
