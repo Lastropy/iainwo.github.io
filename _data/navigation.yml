@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /post-archive-feature-rows/
+    #  - title: "Posts"
+    #url: /post-archive-feature-rows/
   - title: "Notebook"
-    url: /collection-archive/
+    url: /notebook/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
