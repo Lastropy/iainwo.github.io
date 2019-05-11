@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://iainwo.github.io/about/
+    url: /about/
   - title: "Posts"
-    url: https://iainwo.github.io/post-archive-feature-rows/
+    url: /post-archive-feature-rows/
   - title: "Notebook"
-    url: https://iainwo.github.io/collection-archive/
+    url: /collection-archive/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
