@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-    #  - title: "Posts"
-    #url: /post-archive-feature-rows/
+  - title: "Posts"
+    url: /posts/
   - title: "Notebook"
     url: /notebook/
 
