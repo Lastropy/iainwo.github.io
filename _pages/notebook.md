@@ -10,6 +10,6 @@ toc_icon: "heart"
 
 <br><br>
 ## Calculus
-- [Derivatives Through Geometry.pdf](assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
-- [Divergence and Curl](assets/notes/Calculus/Divergence%20and%20Curl.pdf)
+- [Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
+- [Divergence and Curl](/assets/notes/Calculus/Divergence%20and%20Curl.pdf)
 
