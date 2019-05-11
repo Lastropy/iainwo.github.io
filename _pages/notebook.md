@@ -25,30 +25,21 @@ toc_icon: "heart"
 - [3B1B Abstract Vector Spaces.pdf](/assets/notes/Linear%20Algebra/Abstract%20Vector%20Spaces.pdf)
 - [3B1B Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
 - [3B1B Cramer's Rule.pdf](/assets/notes/Linear%20Algebra/Cramer's%20Rule.pdf)
+- [3B1B Cross Products.pdf](/assets/notes/Linear%20Algebra/Cross%20Products.pdf)
+- [3B1B Dot Product and Duality.pdf](/assets/notes/Linear%20Algebra/Dot%20Product%20and%20Duality.pdf)
+- [3B1B Eigenvectors and Eigenvalues.pdf](/assets/notes/Linear%20Algebra/Eigenvectors%20and%20Eigenvalues.pdf)
 
 ## Calculus
-- [Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
-- [Divergence and Curl](/assets/notes/Calculus/Divergence%20and%20Curl.pdf)
-
-notes
-├── Calculus
-│   ├── Derivatives\ Through\ Geometry.pdf
-│   ├── Divergence\ and\ Curl.pdf
-│   ├── Euler's\ Number.pdf
-│   ├── Higher\ Order\ Derivatives.pdf
-│   ├── Implicit\ Differentiation.pdf
-│   ├── Integration\ and\ the\ Fundamental\ Theorem\ of\ Calc.pdf
-│   ├── Limits,\ l'hopital\ and\ epsilon\ delta\ definitions.pdf
-│   ├── Paradox\ of\ a\ Derivative.pdf
-│   ├── Taylor\ Series.pdf
-│   ├── Visualizing\ the\ Chain\ Rule.pdf
-│   ├── What\ Does\ Area\ Have\ to\ do\ with\ Slope.pdf
-│   └── What\ is\ not\ in\ Calculus.pdf
-├── Linear\ Algebra
-│   ├── Abstract\ Vector\ Spaces.pdf
-│   ├── Change\ of\ Basis.pdf
-│   ├── Cramer's\ Rule.pdf
-│   ├── Cross\ Products.pdf
-│   ├── Dot\ Product\ and\ Duality.pdf
-│   └── Eigenvectors\ and\ Eigenvalues.pdf
+- [3B1B Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
+- [3B1B Divergence and Curl](/assets/notes/Calculus/Divergence%20and%20Curl.pdf)
+- [3B1B Euler's Number.pdf](/assets/notes/Calculus/Euler's%20Number.pdf)
+- [3B1B Higher Order Derivatives.pdf](/assets/notes/Calculus/Higher%20Order%20Derivatives.pdf)
+- [3B1B Implicit Differentiation.pdf](/assets/notes/Calculus/Implicit%20Differentiation.pdf)
+- [3B1B Integration and the Fundamental Theorem of Calc.pdf](/assets/notes/Calculus/Integration%20and%20the%20Fundamental%20Theorem%20of%20Calc.pdf)
+- [3B1B Limits, l'hopital and epsilon delta definitions.pdf](/assets/notes/Calculus/Limits,%20l'hopital%20and%20epsilon%20delta%20definitions.pdf)
+- [3B1B Paradox of a Derivative.pdf](/assets/notes/Calculus/Paradox%20of%20a%20Derivative.pdf)
+- [3B1B Taylor Series.pdf](/assets/notes/Calculus/Taylor%20Series.pdf)
+- [3B1B Visualizing the Chain Rule.pdf](/assets/notes/Calculus/Visualizing%20the%20Chain%20Rule.pdf)
+- [3B1B What Does Area Have to do with Slope.pdf](/assets/notes/Calculus/What%20Does%20Area%20Have%20to%20do%20with%20Slope.pdf)
+- [3B1B What is not in Calculus](/assets/notes/Calculus/What%20is%20not%20in%20Calculus.pdf)
 
