@@ -11,10 +11,13 @@ toc_icon: "heart"
 <br><br>
 
 ## Statistics
-- [ThinkStats CH1 Exploratory Data Analysis.pdf](/assets/notes/Linear%20Algebra/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
-- [ThinkStats CH2 Distributions.pdf](/assets/notes/Linear%20Algebra/TS%20CH2%20Distributions.pdf)
-- [ThinkStats CH3 Probability Mass Functions.pdf](/assets/notes/Linear%20Algebra/TS%20CH3%20Probability%20Mass%20Functions.pdf)
-- [ThinkStats CH4 Cumulative Distribution Functions.pdf](/assets/notes/Linear%20Algebra/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
+- [ThinkStats CH1 Exploratory Data Analysis.pdf](/assets/notes/Statistics/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
+- [ThinkStats CH2 Distributions.pdf](/assets/notes/Statistics/TS%20CH2%20Distributions.pdf)
+- [ThinkStats CH3 Probability Mass Functions.pdf](/assets/notes/Statistics/TS%20CH3%20Probability%20Mass%20Functions.pdf)
+- [ThinkStats CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
+- [ThinkStats CH5 Modelling Distributions.pdf](/assets/notes/Statistics/TS%20CH5%20Modelling%20Distributions.pdf)
+- [ThinkStats CH6 Probability Density Functions.pdf](/assets/notes/Statistics/TS%20CH6%20Probability%20Density%20Functions.pdf)
+- [ThinkStats CH7 Relationships Between Variables.pdf](/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf)
 
 ## Linear Algebra
 - test
