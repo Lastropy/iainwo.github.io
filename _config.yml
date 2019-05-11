@@ -20,8 +20,8 @@ title                    : "THE DAILY DISTRIBUTION"
 title_separator          : "-"
 name                     : "THE DAILY DISTRIBUTION - authored by IAIN WONG"
 description              : "Maths, Stats, Data Science,  ML and AI 🤖"
-url                      : "https://iainwo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/notebook" # the subpath of your site, e.g. "/blog"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "IAIN WONG"
-  avatar           : "/assets/images/normalDistIcon.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/normalDistIcon.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Author of the Daily Distribution. Data Scientist."
   location         : "Ottawa, Canada"
   email            :
