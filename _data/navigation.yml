@@ -1,9 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://iainwo.github.io/blog/docs/quick-start-guide/
   - title: "About"
     url: https://iainwo.github.io/blog/about/
+  - title: "Posts"
+    url: https://iainwo.github.io/blog/about/
+  - title: "Hand Written Notes"
+    url: https://iainwo.github.io/blog/about/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
