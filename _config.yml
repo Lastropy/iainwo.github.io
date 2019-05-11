@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "THE DAILY DISTRIBUTION"
 title_separator          : "-"
-name                     : "IAIN WONG"
-description              : "A very interesting stats, ML and AI blog 🤖"
+name                     : "THE DAILY DISTRIBUTION - authored by IAIN WONG"
+description              : "Maths, Stats, Data Science,  ML and AI 🤖"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -121,18 +121,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/iainwo
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/iainwo/?hl=en
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: https://gitlab.com/iainwong
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/iainwo
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/iainwo/?hl=en
 
 # Site Footer
 footer:

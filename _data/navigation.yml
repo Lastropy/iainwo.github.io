@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: https://iainwo.github.io/blog/about/
-  - title: "Posts"
+  - title: "Journal"
     url: https://iainwo.github.io/blog/about/
-  - title: "Hand Written Notes"
+  - title: "Notebook"
     url: https://iainwo.github.io/blog/about/
 
   # - title: "Sample Posts"
