@@ -9,7 +9,49 @@ toc_icon: "heart"
 ---
 
 <br><br>
+
+## Statistics
+- [ThinkStats CH1 Exploratory Data Analysis.pdf](/assets/notes/Linear%20Algebra/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
+- [ThinkStats CH2 Distributions.pdf](/assets/notes/Linear%20Algebra/TS%20CH2%20Distributions.pdf)
+- [ThinkStats CH3 Probability Mass Functions.pdf](/assets/notes/Linear%20Algebra/TS%20CH3%20Probability%20Mass%20Functions.pdf)
+- [ThinkStats CH4 Cumulative Distribution Functions.pdf](/assets/notes/Linear%20Algebra/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
+
+## Linear Algebra
+- test
+
 ## Calculus
 - [Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
 - [Divergence and Curl](/assets/notes/Calculus/Divergence%20and%20Curl.pdf)
+
+notes
+├── Calculus
+│   ├── Derivatives\ Through\ Geometry.pdf
+│   ├── Divergence\ and\ Curl.pdf
+│   ├── Euler's\ Number.pdf
+│   ├── Higher\ Order\ Derivatives.pdf
+│   ├── Implicit\ Differentiation.pdf
+│   ├── Integration\ and\ the\ Fundamental\ Theorem\ of\ Calc.pdf
+│   ├── Limits,\ l'hopital\ and\ epsilon\ delta\ definitions.pdf
+│   ├── Paradox\ of\ a\ Derivative.pdf
+│   ├── Taylor\ Series.pdf
+│   ├── Visualizing\ the\ Chain\ Rule.pdf
+│   ├── What\ Does\ Area\ Have\ to\ do\ with\ Slope.pdf
+│   └── What\ is\ not\ in\ Calculus.pdf
+├── Linear\ Algebra
+│   ├── Abstract\ Vector\ Spaces.pdf
+│   ├── Change\ of\ Basis.pdf
+│   ├── Cramer's\ Rule.pdf
+│   ├── Cross\ Products.pdf
+│   ├── Dot\ Product\ and\ Duality.pdf
+│   └── Eigenvectors\ and\ Eigenvalues.pdf
+└── Statistics
+    ├── TS\ CH1\ Exploratory\ Data\ Analysis.pdf
+        ├── TS\ CH2\ Distributions.pdf
+            ├── TS\ CH3\ Probability\ Mass\ Functions.pdf
+                ├── TS\ CH4\ Cumulative\ Distribution\ Functions.pdf
+                    ├── TS\ CH5\ Modelling\ Distributions.pdf
+                        ├── TS\ CH6\ Probability\ Density\ Functions.pdf
+                            ├── TS\ CH7\ Relationships\ Between\ Variables.pdf
+                                ├── TS\ CH8\ Estimation.pdf
+                                    └── TS\ CH9\ Hypothesis\ Testing.pdf
 
