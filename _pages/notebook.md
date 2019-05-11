@@ -18,9 +18,13 @@ toc_icon: "heart"
 - [ThinkStats CH5 Modelling Distributions.pdf](/assets/notes/Statistics/TS%20CH5%20Modelling%20Distributions.pdf)
 - [ThinkStats CH6 Probability Density Functions.pdf](/assets/notes/Statistics/TS%20CH6%20Probability%20Density%20Functions.pdf)
 - [ThinkStats CH7 Relationships Between Variables.pdf](/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf)
+- [ThinkStats CH8 Estimation.pdf](/assets/notes/Statistics/TS%20CH8%20Estimation.pdf)
+- [ThinkStats CH9 Hypothesis Testing.pdf](/assets/notes/Statistics/TS%20CH9%20Hypothesis%20Testing.pdf)
 
 ## Linear Algebra
-- test
+- [3B1B Abstract Vector Spaces.pdf](/assets/notes/Linear%20Algebra/Abstract%20Vector%20Spaces.pdf)
+- [3B1B Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
+- [3B1B Cramer's Rule.pdf](/assets/notes/Linear%20Algebra/Cramer's%20Rule.pdf)
 
 ## Calculus
 - [Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
@@ -47,14 +51,4 @@ notes
 │   ├── Cross\ Products.pdf
 │   ├── Dot\ Product\ and\ Duality.pdf
 │   └── Eigenvectors\ and\ Eigenvalues.pdf
-└── Statistics
-    ├── TS\ CH1\ Exploratory\ Data\ Analysis.pdf
-        ├── TS\ CH2\ Distributions.pdf
-            ├── TS\ CH3\ Probability\ Mass\ Functions.pdf
-                ├── TS\ CH4\ Cumulative\ Distribution\ Functions.pdf
-                    ├── TS\ CH5\ Modelling\ Distributions.pdf
-                        ├── TS\ CH6\ Probability\ Density\ Functions.pdf
-                            ├── TS\ CH7\ Relationships\ Between\ Variables.pdf
-                                ├── TS\ CH8\ Estimation.pdf
-                                    └── TS\ CH9\ Hypothesis\ Testing.pdf
 
