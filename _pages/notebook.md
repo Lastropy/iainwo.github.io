@@ -10,36 +10,68 @@ toc_icon: "heart"
 
 <br><br>
 
-## Statistics
-- [ThinkStats CH1 Exploratory Data Analysis.pdf](/assets/notes/Statistics/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
-- [ThinkStats CH2 Distributions.pdf](/assets/notes/Statistics/TS%20CH2%20Distributions.pdf)
-- [ThinkStats CH3 Probability Mass Functions.pdf](/assets/notes/Statistics/TS%20CH3%20Probability%20Mass%20Functions.pdf)
-- [ThinkStats CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
-- [ThinkStats CH5 Modelling Distributions.pdf](/assets/notes/Statistics/TS%20CH5%20Modelling%20Distributions.pdf)
-- [ThinkStats CH6 Probability Density Functions.pdf](/assets/notes/Statistics/TS%20CH6%20Probability%20Density%20Functions.pdf)
-- [ThinkStats CH7 Relationships Between Variables.pdf](/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf)
-- [ThinkStats CH8 Estimation.pdf](/assets/notes/Statistics/TS%20CH8%20Estimation.pdf)
-- [ThinkStats CH9 Hypothesis Testing.pdf](/assets/notes/Statistics/TS%20CH9%20Hypothesis%20Testing.pdf)
+<h2 id="statistics">Statistics</h2>
 
-## Linear Algebra
-- [3B1B Abstract Vector Spaces.pdf](/assets/notes/Linear%20Algebra/Abstract%20Vector%20Spaces.pdf)
-- [3B1B Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
-- [3B1B Cramer's Rule.pdf](/assets/notes/Linear%20Algebra/Cramer's%20Rule.pdf)
-- [3B1B Cross Products.pdf](/assets/notes/Linear%20Algebra/Cross%20Products.pdf)
-- [3B1B Dot Product and Duality.pdf](/assets/notes/Linear%20Algebra/Dot%20Product%20and%20Duality.pdf)
-- [3B1B Eigenvectors and Eigenvalues.pdf](/assets/notes/Linear%20Algebra/Eigenvectors%20and%20Eigenvalues.pdf)
+<ul>
+<li><a href="/assets/notes/Statistics/TS%20CH1%20Exploratory%20Data%20Analysis.pdf">ThinkStats CH1 Exploratory Data Analysis.pdf</a></li>
 
-## Calculus
-- [3B1B Derivatives Through Geometry.pdf](/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf)
-- [3B1B Divergence and Curl](/assets/notes/Calculus/Divergence%20and%20Curl.pdf)
-- [3B1B Euler's Number.pdf](/assets/notes/Calculus/Euler's%20Number.pdf)
-- [3B1B Higher Order Derivatives.pdf](/assets/notes/Calculus/Higher%20Order%20Derivatives.pdf)
-- [3B1B Implicit Differentiation.pdf](/assets/notes/Calculus/Implicit%20Differentiation.pdf)
-- [3B1B Integration and the Fundamental Theorem of Calc.pdf](/assets/notes/Calculus/Integration%20and%20the%20Fundamental%20Theorem%20of%20Calc.pdf)
-- [3B1B Limits, l'hopital and epsilon delta definitions.pdf](/assets/notes/Calculus/Limits,%20l'hopital%20and%20epsilon%20delta%20definitions.pdf)
-- [3B1B Paradox of a Derivative.pdf](/assets/notes/Calculus/Paradox%20of%20a%20Derivative.pdf)
-- [3B1B Taylor Series.pdf](/assets/notes/Calculus/Taylor%20Series.pdf)
-- [3B1B Visualizing the Chain Rule.pdf](/assets/notes/Calculus/Visualizing%20the%20Chain%20Rule.pdf)
-- [3B1B What Does Area Have to do with Slope.pdf](/assets/notes/Calculus/What%20Does%20Area%20Have%20to%20do%20with%20Slope.pdf)
-- [3B1B What is not in Calculus](/assets/notes/Calculus/What%20is%20not%20in%20Calculus.pdf)
+<li><a href="/assets/notes/Statistics/TS%20CH2%20Distributions.pdf">ThinkStats CH2 Distributions.pdf</a></li>
 
+<li><a href="/assets/notes/Statistics/TS%20CH3%20Probability%20Mass%20Functions.pdf">ThinkStats CH3 Probability Mass Functions.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf">ThinkStats CH4 Cumulative Distribution Functions.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH5%20Modelling%20Distributions.pdf">ThinkStats CH5 Modelling Distributions.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH6%20Probability%20Density%20Functions.pdf">ThinkStats CH6 Probability Density Functions.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf">ThinkStats CH7 Relationships Between Variables.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH8%20Estimation.pdf">ThinkStats CH8 Estimation.pdf</a></li>
+
+<li><a href="/assets/notes/Statistics/TS%20CH9%20Hypothesis%20Testing.pdf">ThinkStats CH9 Hypothesis Testing.pdf</a></li>
+</ul>
+
+<h2 id="linearalgebra">Linear Algebra</h2>
+
+<ul>
+<li><a href="/assets/notes/Linear%20Algebra/Abstract%20Vector%20Spaces.pdf">3B1B Abstract Vector Spaces.pdf</a></li>
+
+<li><a href="/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf">3B1B Change of Basis.pdf</a></li>
+
+<li><a href="/assets/notes/Linear%20Algebra/Cramer's%20Rule.pdf">3B1B Cramer's Rule.pdf</a></li>
+
+<li><a href="/assets/notes/Linear%20Algebra/Cross%20Products.pdf">3B1B Cross Products.pdf</a></li>
+
+<li><a href="/assets/notes/Linear%20Algebra/Dot%20Product%20and%20Duality.pdf">3B1B Dot Product and Duality.pdf</a></li>
+
+<li><a href="/assets/notes/Linear%20Algebra/Eigenvectors%20and%20Eigenvalues.pdf">3B1B Eigenvectors and Eigenvalues.pdf</a></li>
+</ul>
+
+<h2 id="calculus">Calculus</h2>
+
+<ul>
+<li><a href="/assets/notes/Calculus/Derivatives%20Through%20Geometry.pdf">3B1B Derivatives Through Geometry.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Divergence%20and%20Curl.pdf">3B1B Divergence and Curl</a></li>
+
+<li><a href="/assets/notes/Calculus/Euler's%20Number.pdf">3B1B Euler's Number.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Higher%20Order%20Derivatives.pdf">3B1B Higher Order Derivatives.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Implicit%20Differentiation.pdf">3B1B Implicit Differentiation.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Integration%20and%20the%20Fundamental%20Theorem%20of%20Calc.pdf">3B1B Integration and the Fundamental Theorem of Calc.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Limits,%20l'hopital%20and%20epsilon%20delta%20definitions.pdf">3B1B Limits, l'hopital and epsilon delta definitions.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Paradox%20of%20a%20Derivative.pdf">3B1B Paradox of a Derivative.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Taylor%20Series.pdf">3B1B Taylor Series.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/Visualizing%20the%20Chain%20Rule.pdf">3B1B Visualizing the Chain Rule.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/What%20Does%20Area%20Have%20to%20do%20with%20Slope.pdf">3B1B What Does Area Have to do with Slope.pdf</a></li>
+
+<li><a href="/assets/notes/Calculus/What%20is%20not%20in%20Calculus.pdf">3B1B What is not in Calculus</a></li>
+</ul>
