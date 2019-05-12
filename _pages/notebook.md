@@ -61,4 +61,5 @@ toc_icon: "heart"
 ## Greek Integrals
 - [Greek Integrals - Ex. Ordinate of 2x Squared.pdf](/assets/notes/Calculus/Greek%20Integrals/Ex.%20Ordinate%20of%202x%20Squared.pdf)
 - [Greek Integrals - Intro.pdf](/assets/notes/Calculus/Greek%20Integrals/Intro.pdf)
-- [Greek Integrals - Integrals via Exhaustion.pdf](/assets/notes/Calculus/Greek%20Innotes/Calculus/3B1B/Integration%20and%20th)
+- [Greek Integrals - Integrals via Exhaustion.pdf](/assets/notes/Calculus/Greek%20Integrals/Integrals%20via%20Exhaustion.pdf)
+
