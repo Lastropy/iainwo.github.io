@@ -13,6 +13,9 @@ toc_icon: "heart"
 On,
 - 2019-MAY-12, we started using Notability for our PDFs. Before then we were using Apple Notes. Apple Notes does not export to PDFs well; it seems to do some conversion between the stored note to a JPEG to a PDF. The translation didn't work well for notes longer than a few pages. A few of the PDFs you click will be from this time and will be blurry. Going forward these export won't be so unusable!
 
+# Recent Publishments
+1. [2019-MAY-12 8:20 - TS CH10 Linear Least Squares.pdf](/assets/notes/Statistics/TS%20CH10%20Linear%20Least%20Squares.pdf)
+
 # Statistics
 
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -24,6 +27,7 @@ On,
 - [TS CH8 Estimation.pdf](/assets/notes/Statistics/TS%20CH8%20Estimation.pdf)
 - [TS CH1 Exploratory Data Analysis.pdf](/assets/notes/Statistics/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
 - [TS CH7 Relationships Between Variables.pdf](/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf)
+- [TS CH10 Linear Least Squares.pdf](/assets/notes/Statistics/TS%20CH10%20Linear%20Least%20Squares.pdf)
 
 # Linear Algebra
 
