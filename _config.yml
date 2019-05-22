@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "IAIN WONG"
   avatar           : # "/assets/images/normalDistIcon.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Author of the Daily Distribution. Data Scientist."
+  bio              : "Author of the Daily Distribution."
   location         : "Ottawa, Canada"
   email            :
   links:
