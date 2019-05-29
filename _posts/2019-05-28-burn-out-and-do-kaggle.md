@@ -16,17 +16,17 @@ And have read about the rudiments of,
 1. Decision Trees
 2. Random Forest Regression
 3. Model Parameters
-  1. Number of estimators used in a Random Forest
+    1. Number of estimators used in a Random Forest
 4. Handling missing data
-  1. Dropping rows/cols
-  2. Imputing data
-  3. Imputing data and generating metadata (adding extra cols, is imputed/not)
+    1. Dropping rows/cols
+    2. Imputing data
+    3. Imputing data and generating metadata (adding extra cols, is imputed/not)
 5. Handling categorical data
-  1. Dropping rows/cols
-  2. Labeling
-    1. Ordinal vs. Nominal?      
-  3. One Hot Encoding
-    1. Best when number of categories < 15
+    1. Dropping rows/cols
+    2. Labeling
+        1. Ordinal vs. Nominal?      
+    3. One Hot Encoding
+        1. Best when number of categories < 15
 
 I even entered a kaggle competition (although it was part of the tutorial)!
 Here is a sample of how I used OneHot encoding to better predict the sales of housing prices,
