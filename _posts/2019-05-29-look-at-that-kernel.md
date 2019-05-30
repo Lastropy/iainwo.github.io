@@ -1,5 +1,5 @@
 It's amazing how fast time flies.
-![Battle for DL](assets/images/battleForDL.png)
+![Battle for DL](https://iainwo.github.io/assets/images/battleForDL.png)
 It's even more amazing when you haven't completely squandered it :p
 
 Recently I was writing down what I have learned or reviewed.
@@ -73,3 +73,5 @@ TODO: add kaggle profile to the Daily Distribution
 
 Best,
 Iain
+
+Image was from [here](https://www.facebook.com/convolutionalmemes/).
