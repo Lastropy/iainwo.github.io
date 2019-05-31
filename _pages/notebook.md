@@ -15,9 +15,9 @@ On,
 
 # Recent Notes 
 
-1. [2019-MAY-22 09:03 - Inner Product, Length, Orthogonality, SVD & Intuition of Transposing.pdf](/assets/notes/Linear%20Algebra/Inner%20Product%2C%20Length%2C%20Orthogonality%2C%20SVD%20%26%20Intuition%20of%20Transposing.pdf)
-2. [2019-MAY-22 09:03 - Normal Equations.pdf](/assets/notes/Linear%20Algebra/Normal%20Equations.pdf)
-3. [2019-MAY-12 23:19 - TS CH10 Linear Least Squares.pdf - Pg. 6, 7 & 8](/assets/notes/Statistics/TS%20CH10%20Linear%20Least%20Squares.pdf)
+1. [2019-MAY-31 16:53 - Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
+2. [2019-MAY-22 09:03 - Inner Product, Length, Orthogonality, SVD & Intuition of Transposing.pdf](/assets/notes/Linear%20Algebra/Inner%20Product%2C%20Length%2C%20Orthogonality%2C%20SVD%20%26%20Intuition%20of%20Transposing.pdf)
+3. [2019-MAY-22 09:03 - Normal Equations.pdf](/assets/notes/Linear%20Algebra/Normal%20Equations.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
