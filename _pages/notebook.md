@@ -54,6 +54,7 @@ On,
 
 # ML
 - [Machine Learning Projects.pdf](/assets/notes/ML/Machine%20Learning%20Projects.pdf)
+- [Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
