@@ -15,10 +15,11 @@ On,
 
 # Recent Notes 
 
-1. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
-2. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
-3. [2019-MAY-31 16:53 - Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
-4. [2019-MAY-22 09:03 - Inner Product, Length, Orthogonality, SVD & Intuition of Transposing.pdf](/assets/notes/Linear%20Algebra/Inner%20Product%2C%20Length%2C%20Orthogonality%2C%20SVD%20%26%20Intuition%20of%20Transposing.pdf)
+1. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
+2. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
+3. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
+4. [2019-MAY-31 16:53 - Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
+5. [2019-MAY-22 09:03 - Inner Product, Length, Orthogonality, SVD & Intuition of Transposing.pdf](/assets/notes/Linear%20Algebra/Inner%20Product%2C%20Length%2C%20Orthogonality%2C%20SVD%20%26%20Intuition%20of%20Transposing.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -58,6 +59,7 @@ On,
 - [Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
 - [Machine Learning Projects.pdf](/assets/notes/ML/Machine%20Learning%20Projects.pdf)
 - [Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
+- [Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
