@@ -296,3 +296,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Configure Collections
+collections:
+  goals:
+    output: true
+    permalink: /:collection/:path/

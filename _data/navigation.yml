@@ -4,6 +4,8 @@ main:
   #  url: /about/
   - title: "Posts"
     url: /posts/
+  - title: "Goals"
+    url: /goals/
   - title: "Notebook"
     url: /notebook/
 
