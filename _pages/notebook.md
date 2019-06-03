@@ -10,8 +10,7 @@ toc_icon: "heart"
 
 <br><br>
 
-On,
-- 2019-MAY-12, we started using Notability for our PDFs. Before then we were using Apple Notes. Apple Notes does not export to PDFs well; it seems to do some conversion between the stored note to a JPEG to a PDF. The translation didn't work well for notes longer than a few pages. A few of the PDFs you click will be from this time and will be blurry. Going forward these export won't be so unusable!
+2019-MAY-12 and forward, we began using Notability to write notes. Before then, we were using Apple Notes which exported blurry PDFs. If you notice some of the links have blurry notes don't fret, that will no longer be the case going forward - and no it's not your browser that's causing the issue (:
 
 # Recent Notes 
 
