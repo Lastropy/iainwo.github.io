@@ -29,8 +29,8 @@ Events attended:<br>
 
 | No. | Name |
 | --- | --- |
-| 1 | Ottawa - Government Survey and NLP @ Shopify |
-| 2 | Data Day 6.0 |
+| 1 | [Python Authors Group - Sentiment Analysis](https://www.meetup.com/ottawapython/events/xwbgcqyzdblc/) |
+| 2 | [Data Day 6.0](https://carleton.ca/cuids/cu-events/data-day-6-0/) |
 
 Papers read:<br>
 
