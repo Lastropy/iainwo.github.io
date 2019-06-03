@@ -23,3 +23,4 @@ Books read,<br>
 - [x] [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 - [ ] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
+TODO: convert this to a markdown table ^^^.
