@@ -27,10 +27,11 @@ Books read:<br>
 
 Events attended:<br>
 
-| No. | Name |
-| --- | --- |
-| 1 | [Python Authors Group - Sentiment Analysis](https://www.meetup.com/ottawapython/events/xwbgcqyzdblc/) |
-| 2 | [Data Day 6.0](https://carleton.ca/cuids/cu-events/data-day-6-0/) |
+| No. | Group | Event Name |
+| --- | --- | --- |
+| 1 | Python Author's Group | [Sentiment Analysis](https://www.meetup.com/ottawapython/events/xwbgcqyzdblc/) |
+| 2 | Carleton University | [Data Day 6.0](https://carleton.ca/cuids/cu-events/data-day-6-0/) |
+| 3 | Machine Learning & Artificial Intelligence Ottawa |[ML and AI in the Browswer](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/258702441/) |
 
 Papers read:<br>
 
