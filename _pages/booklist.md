@@ -5,7 +5,8 @@ permalink: /booklist/
 author_profile: true
 ---
 
-Courses completed,<br>
+Courses completed:<br>
+
 | No. | Status | Course |
 | --- | --- | --- |
 | 1 | Complete | [Kaggle: Intro to Machine Learning Micro-Course](https://www.kaggle.com/learn/intro-to-machine-learning) |
@@ -14,7 +15,7 @@ Courses completed,<br>
 | 4 | In progress | [Coursera: Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) |
 | 5 | Backlog | [Standford: CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) |
 
-Books read,<br>
+Books read:<br>
 
 | No. | Status | Book | Authors |
 | --- | --- | --- | --- |
@@ -31,7 +32,7 @@ Events attended:<br>
 | 1 | Ottawa - Government Survey and NLP @ Shopify |
 | 2 | Data Day 6.0 |
 
-- Papers read:<br>
+Papers read:<br>
 
 | No. | Paper |
 | --- | --- |
