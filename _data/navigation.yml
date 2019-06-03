@@ -4,10 +4,12 @@ main:
   #  url: /about/
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /posts/
+    #- title: "Posts"
+    #  url: /posts/
   - title: "Goals"
     url: /goals/
+  - title: "Booklist"
+    url: /booklist/
   - title: "Notebook"
     url: /notebook/
 
