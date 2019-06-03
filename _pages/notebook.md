@@ -14,12 +14,12 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-1. [2109-JUN-02 22:20 - Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
-2. [2019-JUN-02 10:44 - DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
-3. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
-4. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
-5. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
-6. [2019-MAY-31 16:53 - Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
+1. [2019-JUN-03 18:18 - Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
+2. [2019-JUN-02 22:20 - Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
+3. [2019-JUN-02 10:44 - DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
+4. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
+5. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
+6. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -61,6 +61,7 @@ toc_icon: "heart"
 - [Hyperparameter Optimization.pdf](/assets/notes/ML/Hyperparameter%20Optimization.pdf)
 - [Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
 - [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
+- [Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
