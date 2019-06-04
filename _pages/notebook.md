@@ -14,13 +14,16 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-1. [2019-JUN-03 22:04 - Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)]
-2. [2019-JUN-03 18:18 - Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
-3. [2019-JUN-02 22:20 - Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
-4. [2019-JUN-02 10:44 - DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
-5. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
-6. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
-7. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
+1. [2019-JUN-04 06:55 - L1 CH1 Solving Simultaneous Equations Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Solving%20Simultaneous%20Equations%20Quiz.pdf)
+2. [2019-JUN-04 06:55 - L1 CH2 Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH2%20Vector%20Operations.pdf)
+3. [2019-JUN-04 06:55 - L1 CH3 Doing Some Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Doing%20Some%20Vector%20Operations.pdf)
+4. [2019-JUN-03 22:04 - Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)]
+5. [2019-JUN-03 18:18 - Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
+6. [2019-JUN-02 22:20 - Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
+7. [2019-JUN-02 10:44 - DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
+8. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
+9. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
+10. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -51,6 +54,12 @@ toc_icon: "heart"
 - [Eigenvectors and Eigenvalues.pdf](/assets/notes/Linear%20Algebra/Eigenvectors%20and%20Eigenvalues.pdf)
 - [Abstract Vector Spaces.pdf](/assets/notes/Linear%20Algebra/Abstract%20Vector%20Spaces.pdf)
 - [Normal Equations.pdf](/assets/notes/Linear%20Algebra/Normal%20Equations.pdf)
+
+## Coursera - Mathematics for Machine Learning
+- [L1 CH1 Solving Simultaneous Equations Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Solving%20Simultaneous%20Equations%20Quiz.pdf)
+- [L1 CH2 Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH2%20Vector%20Operations.pdf)
+- [L1 CH3 Doing Some Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Doing%20Some%20Vector%20Operations.pdf)
+
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
