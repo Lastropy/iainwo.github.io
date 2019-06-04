@@ -31,7 +31,8 @@ Events attended:<br>
 | --- | --- | --- |
 | 1 | Python Author's Group | [Sentiment Analysis](https://www.meetup.com/ottawapython/events/xwbgcqyzdblc/) |
 | 2 | Carleton University | [Data Day 6.0](https://carleton.ca/cuids/cu-events/data-day-6-0/) |
-| 3 | Machine Learning & Artificial Intelligence Ottawa |[ML and AI in the Browswer](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/258702441/) |
+| 3 | ML & AI Ottawa | [ML and AI in the Browswer](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/258702441/) |
+| 4 | ML & AI Ottawa | [RL Concepts and how to build RL algorithms with OpeanAI Gym](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/261234287/) |
 
 Papers read:<br>
 
