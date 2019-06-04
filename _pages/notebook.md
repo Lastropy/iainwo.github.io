@@ -63,6 +63,7 @@ toc_icon: "heart"
 - [Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
 - [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
 - [Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
+- [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
