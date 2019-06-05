@@ -14,6 +14,8 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-05 07:16 - L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
+1. [2019-JUN-05 07:16 - L2 CH3 Projection.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH3%20Projection.pdf)
 1. [2019-JUN-04 21:30 - L2 CH2 Cosine and Dot Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH2%20Cosine%20and%20Dot%20Product.pdf)
 1. [2019-JUN-04 21:30 - L2 CH1 Modulus and Inner Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH1%20Modulus%20and%20Inner%20Product.pdf)
 1. [2019-JUN-04 06:55 - L1 CH1 Solving Simultaneous Equations Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Solving%20Simultaneous%20Equations%20Quiz.pdf)
@@ -63,6 +65,8 @@ toc_icon: "heart"
 - [L1 CH3 Doing Some Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Doing%20Some%20Vector%20Operations.pdf)
 - [L2 CH1 Modulus and Inner Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH1%20Modulus%20and%20Inner%20Product.pdf)
 - [L2 CH2 Cosine and Dot Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH2%20Cosine%20and%20Dot%20Product.pdf)
+- [L2 CH3 Projection.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH3%20Projection.pdf)
+- [L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)

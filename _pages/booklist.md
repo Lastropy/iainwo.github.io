@@ -19,11 +19,11 @@ Books read:<br>
 
 | No. | Status | Book | Authors |
 | --- | --- | --- | --- |
-| 1 | In progress | [Think Stats - Allen B. Downey](http://www.greenteapress.com/thinkstats/thinkstats.pdf) | |
-| 2 | Backlog | [An Introduction to Statistical Learning - James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/getbook.html) | |
-| 3 | Backlog | [Elements of Statistical Learning - Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | |
-| 4 | Backlog | [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org) | |
-| 5 | Backlog | [Pattern Recognition and Machine Learning - Christoper M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | |
+| 1 | In progress | Allen B. Downey | [Think Stats](http://www.greenteapress.com/thinkstats/thinkstats.pdf) |
+| 2 | Backlog | James, Witten, Hastie, Tibshirani | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/getbook.html) |
+| 3 | Backlog | Hastie, Tibshirani, Friedman | [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) |
+| 4 | Backlog | Ian Goodfellow and Yoshua Bengio and Aaron Courville | [Deep Learning](https://www.deeplearningbook.org) |
+| 5 | Backlog | Christoper M. Bishop | [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) |
 
 Events attended:<br>
 
@@ -36,6 +36,6 @@ Events attended:<br>
 
 Papers read:<br>
 
-| No. | Paper |
-| --- | --- |
-| 1 | [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) |
+| No. | Author | Paper |
+| --- | --- | --- |
+| 1 | | [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) |
