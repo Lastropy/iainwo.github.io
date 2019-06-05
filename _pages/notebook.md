@@ -14,8 +14,6 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-## Coursera - Mathematics for Machine Learning
-
 1. [2019-JUN-04 21:30 - L2 CH2 Cosine and Dot Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH2%20Cosine%20and%20Dot%20Product.pdf)
 1. [2019-JUN-04 21:30 - L2 CH1 Modulus and Inner Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH1%20Modulus%20and%20Inner%20Product.pdf)
 1. [2019-JUN-04 06:55 - L1 CH1 Solving Simultaneous Equations Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Solving%20Simultaneous%20Equations%20Quiz.pdf)
