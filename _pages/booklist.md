@@ -17,7 +17,7 @@ Courses completed:<br>
 
 Books read:<br>
 
-| No. | Status | Book | Authors |
+| No. | Status | Authors | Book |
 | --- | --- | --- | --- |
 | 1 | In progress | Allen B. Downey | [Think Stats](http://www.greenteapress.com/thinkstats/thinkstats.pdf) |
 | 2 | Backlog | James, Witten, Hastie, Tibshirani | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/getbook.html) |
