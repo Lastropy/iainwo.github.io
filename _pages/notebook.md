@@ -14,6 +14,10 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-07 07:42 - L2 CH10 Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH10%20Summary.pdf)
+1. [2019-JUN-07 07:42 - L2 CH9 Linear Dependency of a Set of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH9%20Linear%20Dependency%20of%20a%20Set%20of%20Vectors%20Quiz.pdf)
+1. [2019-JUN-07 07:42 - L2 CH8 Applications of Changing Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH8%20Applications%20of%20Changing%20Basis.pdf)
+1. [2019-JUN-07 07:42 - L2 CH7 Basis, Vector Space, and Linear Independence.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH7%20Basis%2C%20Vector%20Space%2C%20and%20Linear%20Independence.pdf)
 1. [2019-JUN-06 22:25 - L2 CH6 Change of Basis Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH6%20Change%20of%20Basis%20Quiz.pdf)
 1. [2019-JUN-06 22:25 - L2 CH5 Change of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH5%20Change%20of%20Basis.pdf)
 1. [2019-JUN-05 07:16 - L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
@@ -25,11 +29,6 @@ toc_icon: "heart"
 3. [2019-JUN-04 06:55 - L1 CH3 Doing Some Vector Operations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Doing%20Some%20Vector%20Operations.pdf)
 4. [2019-JUN-03 22:04 - Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)]
 5. [2019-JUN-03 18:18 - Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
-6. [2019-JUN-02 22:20 - Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
-7. [2019-JUN-02 10:44 - DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
-8. [2019-JUN-02 08:51 - Transfer Learning.pdf](/assets/notes/ML/Transfer%20Learning.pdf)
-9. [2019-JUN-01 21:16 - Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
-10. [2019-JUN-01 13:09 - Data Leakage.pdf](/assets/notes/ML/Data%20Leakage.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -71,6 +70,10 @@ toc_icon: "heart"
 - [L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
 - [L2 CH5 Change of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH5%20Change%20of%20Basis.pdf)
 - [L2 CH6 Change of Basis Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH6%20Change%20of%20Basis%20Quiz.pdf)
+- [L2 CH7 Basis, Vector Space, and Linear Independence.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH7%20Basis%2C%20Vector%20Space%2C%20and%20Linear%20Independence.pdf)
+- [L2 CH8 Applications of Changing Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH8%20Applications%20of%20Changing%20Basis.pdf)
+- [L2 CH9 Linear Dependency of a Set of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH9%20Linear%20Dependency%20of%20a%20Set%20of%20Vectors%20Quiz.pdf)
+- [L2 CH10 Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH10%20Summary.pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
