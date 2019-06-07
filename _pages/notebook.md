@@ -14,6 +14,8 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-06 22:25 - L2 CH6 Change of Basis Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH6%20Change%20of%20Basis%20Quiz.pdf)
+1. [2019-JUN-06 22:25 - L2 CH5 Change of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH5%20Change%20of%20Basis.pdf)
 1. [2019-JUN-05 07:16 - L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
 1. [2019-JUN-05 07:16 - L2 CH3 Projection.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH3%20Projection.pdf)
 1. [2019-JUN-04 21:30 - L2 CH2 Cosine and Dot Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH2%20Cosine%20and%20Dot%20Product.pdf)
@@ -67,6 +69,8 @@ toc_icon: "heart"
 - [L2 CH2 Cosine and Dot Product.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH2%20Cosine%20and%20Dot%20Product.pdf)
 - [L2 CH3 Projection.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH3%20Projection.pdf)
 - [L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
+- [L2 CH5 Change of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH5%20Change%20of%20Basis.pdf)
+- [L2 CH6 Change of Basis Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH6%20Change%20of%20Basis%20Quiz.pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
