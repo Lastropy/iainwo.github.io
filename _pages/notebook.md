@@ -14,6 +14,15 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-08 20:58 - L3 CH2 How Matrices Transform Space.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20How%20Matrices%20Transform%20Space.pdf)
+1. [2019-JUN-08 20:58 - L3 CH3 Types of Matrix Transformation.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH3%20Types%20of%20Matrix%20Transformation.pdf)
+1. [2019-JUN-08 20:58 - L3 CH4 Composition or Combination of Matrix Transformations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH4%20Composition%20or%20Combination%20of%20Matrix%20Transformations.pdf)
+1. [2019-JUN-08 20:58 - L3 CH5 Using Matrices to make Transformations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20Using%20Matrices%20to%20make%20Transformations.pdf)
+1. [2019-JUN-08 20:58 - L3 CH6 Gaussian Elimination.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Gaussian%20Elimination.pdf)
+1. [2019-JUN-08 20:58 - L3 CH7 Computing Inverse Matrices by Gaussian Elimination.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH7%20Computing%20Inverse%20Matrices%20by%20Gaussian%20Elimination.pdf)
+1. [2019-JUN-08 20:58 - L3 CH8 Solving Linear Equations Using the Inverse of a Matrix Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH8%20Solving%20Linear%20Equations%20Using%20the%20Inverse%20of%20a%20Matrix%20Quiz.pdf)
+1. [2019-JUN-08 20:58 - L3 CH9 Determinants and Inverses.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH9%20Determinants%20and%20Inverses.pdf)
+1. [2019-JUN-08 20:58 - L3 CH10 Identifying Special Matrices & Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH10%20Identifying%20Special%20Matrices%20%26%20Summary.pdf)
 1. [2019-JUN-07 21:11 - L3 CH1 Matrices, Vectors, and Solving simultaneous equation problems.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH1%20Matrices%2C%20Vectors%2C%20and%20Solving%20simultaneous%20equation%20problems.pdf)
 1. [2019-JUN-07 07:42 - L2 CH10 Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH10%20Summary.pdf)
 1. [2019-JUN-07 07:42 - L2 CH9 Linear Dependency of a Set of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH9%20Linear%20Dependency%20of%20a%20Set%20of%20Vectors%20Quiz.pdf)
@@ -76,6 +85,16 @@ toc_icon: "heart"
 - [L2 CH9 Linear Dependency of a Set of Vectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH9%20Linear%20Dependency%20of%20a%20Set%20of%20Vectors%20Quiz.pdf)
 - [L2 CH10 Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH10%20Summary.pdf)
 - [L3 CH1 Matrices, Vectors, and Solving simultaneous equation problems.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH1%20Matrices%2C%20Vectors%2C%20and%20Solving%20simultaneous%20equation%20problems.pdf)
+- [L3 CH2 How Matrices Transform Space.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20How%20Matrices%20Transform%20Space.pdf)
+- [L3 CH3 Types of Matrix Transformation.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH3%20Types%20of%20Matrix%20Transformation.pdf)
+- [L3 CH4 Composition or Combination of Matrix Transformations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH4%20Composition%20or%20Combination%20of%20Matrix%20Transformations.pdf)
+- [L3 CH5 Using Matrices to make Transformations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20Using%20Matrices%20to%20make%20Transformations.pdf)
+- [L3 CH6 Gaussian Elimination.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Gaussian%20Elimination.pdf)
+- [L3 CH7 Computing Inverse Matrices by Gaussian Elimination.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH7%20Computing%20Inverse%20Matrices%20by%20Gaussian%20Elimination.pdf)
+- [L3 CH8 Solving Linear Equations Using the Inverse of a Matrix Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH8%20Solving%20Linear%20Equations%20Using%20the%20Inverse%20of%20a%20Matrix%20Quiz.pdf)
+- [L3 CH9 Determinants and Inverses.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH9%20Determinants%20and%20Inverses.pdf)
+- [L3 CH10 Identifying Special Matrices & Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH10%20Identifying%20Special%20Matrices%20%26%20Summary.pdf)
+
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
