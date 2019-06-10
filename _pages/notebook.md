@@ -14,6 +14,14 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-09 21:19 - L4 CH8 Reflecting in a Plane.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Reflecting%20in%20a%20Plane.pdf)
+1. [2019-JUN-09 21:19 - L4 CH7 The Gram-Schmidt Process.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH7%20The%20Gram-Schmidt%20Process.pdf)
+1. [2019-JUN-09 21:19 - L4 CH6 Orthogonal Matrices.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH6%20Orthogonal%20Matrices.pdf)
+1. [2019-JUN-09 21:19 - L4 CH5 Doing a Transformation of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Doing%20a%20Transformation%20of%20Basis.pdf)
+1. [2019-JUN-09 21:19 - L4 CH4 Matrices Changing Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Matrices%20Changing%20Basis.pdf)
+1. [2019-JUN-09 21:19 - L4 CH3 Using Non-Square Matrices to do Projections Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Using%20Non-Square%20Matrices%20to%20do%20Projections%20Quiz.pdf)
+1. [2019-JUN-09 21:19 - L4 CH2 Non-Aquare Matrix Multiplication Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Non-Aquare%20Matrix%20Multiplication%20Quiz.pdf)
+1. [2019-JUN-09 21:19 - L4 CH1 Introduction, the Einstein Summation Convention and Dot Product Symmetry.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH1%20Introduction%2C%20the%20Einstein%20Summation%20Convention%20and%20Dot%20Product%20Symmetry.pdf)
 1. [2019-JUN-08 20:58 - L3 CH2 How Matrices Transform Space.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20How%20Matrices%20Transform%20Space.pdf)
 1. [2019-JUN-08 20:58 - L3 CH3 Types of Matrix Transformation.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH3%20Types%20of%20Matrix%20Transformation.pdf)
 1. [2019-JUN-08 20:58 - L3 CH4 Composition or Combination of Matrix Transformations.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH4%20Composition%20or%20Combination%20of%20Matrix%20Transformations.pdf)
@@ -94,7 +102,14 @@ toc_icon: "heart"
 - [L3 CH8 Solving Linear Equations Using the Inverse of a Matrix Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH8%20Solving%20Linear%20Equations%20Using%20the%20Inverse%20of%20a%20Matrix%20Quiz.pdf)
 - [L3 CH9 Determinants and Inverses.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH9%20Determinants%20and%20Inverses.pdf)
 - [L3 CH10 Identifying Special Matrices & Summary.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH10%20Identifying%20Special%20Matrices%20%26%20Summary.pdf)
-
+- [L4 CH8 Reflecting in a Plane.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Reflecting%20in%20a%20Plane.pdf)
+- [L4 CH7 The Gram-Schmidt Process.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH7%20The%20Gram-Schmidt%20Process.pdf)
+- [L4 CH6 Orthogonal Matrices.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH6%20Orthogonal%20Matrices.pdf)
+- [L4 CH5 Doing a Transformation of Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Doing%20a%20Transformation%20of%20Basis.pdf)
+- [L4 CH4 Matrices Changing Basis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Matrices%20Changing%20Basis.pdf)
+- [L4 CH3 Using Non-Square Matrices to do Projections Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Using%20Non-Square%20Matrices%20to%20do%20Projections%20Quiz.pdf)
+- [L4 CH2 Non-Aquare Matrix Multiplication Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Non-Aquare%20Matrix%20Multiplication%20Quiz.pdf)
+- [L4 CH1 Introduction, the Einstein Summation Convention and Dot Product Symmetry.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH1%20Introduction%2C%20the%20Einstein%20Summation%20Convention%20and%20Dot%20Product%20Symmetry.pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
