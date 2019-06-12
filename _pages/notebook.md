@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-11 21:49 - L5 CH6 Changing to the Eigenbasis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Changing%20to%20the%20Eigenbasis.pdf)
 1. [2019-JUN-10 21:46 - L5 CH5 Characteristic Polynomials, Eigenvalues & Eigenvectors Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Characteristic%20Polynomials%2C%20Eigenvalues%20%26%20Eigenvectors%20Quiz.pdf)
 1. [2019-JUN-10 21:46 - L5 CH4 Calculating Eigenvectors.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH4%20Calculating%20Eigenvectors.pdf)
 1. [2019-JUN-10 21:46 - L5 CH3 Special Eigen Cases.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Special%20Eigen%20Cases.pdf)
@@ -87,6 +88,7 @@ toc_icon: "heart"
 - [L5 CH3 Special Eigen Cases.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Special%20Eigen%20Cases.pdf)
 - [L5 CH2 Selecting Eigenvectors by Inspection.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH2%20Selecting%20Eigenvectors%20by%20Inspection.pdf)
 - [L5 CH1 Introduction.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH1%20Introduction.pdf)
+- [L5 CH6 Changing to the Eigenbasis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Changing%20to%20the%20Eigenbasis.pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
