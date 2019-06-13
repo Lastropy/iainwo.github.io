@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-13 18:58 - L5 CH9 PageRank Part II..pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH9%20PageRank%20Part%20II..pdf)
 1. [2019-JUN-12 08:36 - L5 CH7 Diagonalization and Applications Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH7%20Diagonalization%20and%20Applications%20Quiz.pdf)
 1. [2019-JUN-12 08:36 - L5 CH8 Introduction to PageRank.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Introduction%20to%20PageRank.pdf)
 1. [2019-JUN-11 21:49 - L5 CH6 Changing to the Eigenbasis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Changing%20to%20the%20Eigenbasis.pdf)
@@ -93,6 +94,7 @@ toc_icon: "heart"
 - [L5 CH6 Changing to the Eigenbasis.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Changing%20to%20the%20Eigenbasis.pdf)
 - [L5 CH7 Diagonalization and Applications Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH7%20Diagonalization%20and%20Applications%20Quiz.pdf)
 - [L5 CH8 Introduction to PageRank.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Introduction%20to%20PageRank.pdf)
+- [L5 CH9 PageRank Part II..pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH9%20PageRank%20Part%20II..pdf)
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
