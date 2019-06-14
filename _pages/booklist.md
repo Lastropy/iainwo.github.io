@@ -12,8 +12,9 @@ Courses completed:<br>
 | 1 | Complete | [Kaggle: Intro to Machine Learning Micro-Course](https://www.kaggle.com/learn/intro-to-machine-learning) |
 | 2 | Complete | [Kaggle: Intermediate Machine Learning Micro-Course](https://www.kaggle.com/learn/intermediate-machine-learning) |
 | 3 | Complete | [Kaggle: Deep Learning Micro-Course](https://www.kaggle.com/learn/deep-learning) |
-| 4 | In progress | [Coursera: Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) |
-| 5 | Backlog | [Standford: CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) |
+| 4 | Complete | [Coursera: Mathematics for Machine Learning, Linear Algebra](https://www.coursera.org/specializations/mathematics-machine-learning) |
+| 5 | In progress | [Coursera: Mathematics for Machine Learning, Multivariate Calculus](https://www.coursera.org/specializations/mathematics-machine-learning) |
+| 6 | Backlog | [Standford: CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) |
 
 Books read:<br>
 

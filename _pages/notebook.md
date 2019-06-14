@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-14 07:40 - Multivariate Calculus Introduction & Formula Sheet.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus%20Introduction%20%26%20Formula%20Sheet.pdf)
 1. [2019-JUN-13 18:58 - L5 CH9 PageRank Part II..pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH9%20PageRank%20Part%20II..pdf)
 1. [2019-JUN-12 08:36 - L5 CH7 Diagonalization and Applications Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH7%20Diagonalization%20and%20Applications%20Quiz.pdf)
 1. [2019-JUN-12 08:36 - L5 CH8 Introduction to PageRank.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Introduction%20to%20PageRank.pdf)
@@ -135,6 +136,9 @@ toc_icon: "heart"
 - [Ex. Ordinate of 2x Squared.pdf](/assets/notes/Calculus/Greek%20Integrals/Ex.%20Ordinate%20of%202x%20Squared.pdf)
 - [Intro.pdf](/assets/notes/Calculus/Greek%20Integrals/Intro.pdf)
 - [Integrals via Exhaustion.pdf](/assets/notes/Calculus/Greek%20Integrals/Integrals%20via%20Exhaustion.pdf)
+
+## Coursera - Mathematics for Machine Learning
+- [Multivariate Calculus Introduction & Formula Sheet.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus%20Introduction%20%26%20Formula%20Sheet.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
