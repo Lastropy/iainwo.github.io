@@ -14,6 +14,18 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-15 21:28 - L1 CH12 Practicing the Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH12%20Practicing%20the%20Chain%20Rule%20Quiz.pdf)
+1. [2019-JUN-15 21:28 - L1 CH11 Taming The Beast.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH11%20Taming%20The%20Beast.pdf)
+1. [2019-JUN-15 21:28 - L1 CH10 Chain Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH10%20Chain%20Rule.pdf)
+1. [2019-JUN-15 21:28 - L1 CH9 Practicing the Product Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH9%20Practicing%20the%20Product%20Rule%20Quiz.pdf)
+1. [2019-JUN-15 21:28 - L1 CH8 Product Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH8%20Product%20Rule.pdf)
+1. [2019-JUN-15 21:28 - L1 CH7 Differentiation Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH7%20Differentiation%20Quiz.pdf)
+1. [2019-JUN-15 21:28 - L1 CH6 Differentiation Examples and Special Cases.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH6%20Differentiation%20Examples%20and%20Special%20Cases.pdf)
+1. [2019-JUN-15 21:28 - L1 CH5 Definition of a Derivative.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH5%20Definition%20of%20a%20Derivative.pdf)
+1. [2019-JUN-15 21:28 - L1 CH4 Matching the Graph of a Function to the Graph of its Derivative Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH4%20Matching%20the%20Graph%20of%20a%20Function%20to%20the%20Graph%20of%20its%20Derivative%20Quiz.pdf)
+1. [2019-JUN-15 21:28 - L1 CH3 Rise Over Run.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Rise%20Over%20Run.pdf)
+1. [2019-JUN-15 21:28 - L1 CH2 Matching Functions Visually.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH2%20Matching%20Functions%20Visually.pdf)
+1. [2019-JUN-15 21:28 - L1 CH1 Functions.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Functions.pdf)
 1. [2019-JUN-14 07:40 - Multivariate Calculus Introduction & Formula Sheet.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus%20Introduction%20%26%20Formula%20Sheet.pdf)
 1. [2019-JUN-13 18:58 - L5 CH9 PageRank Part II..pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH9%20PageRank%20Part%20II..pdf)
 1. [2019-JUN-12 08:36 - L5 CH7 Diagonalization and Applications Quiz.pdf](/assets/notes/Linear%20Algebra/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH7%20Diagonalization%20and%20Applications%20Quiz.pdf)
@@ -139,6 +151,18 @@ toc_icon: "heart"
 
 ## Coursera - Mathematics for Machine Learning
 - [Multivariate Calculus Introduction & Formula Sheet.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus%20Introduction%20%26%20Formula%20Sheet.pdf)
+- [L1 CH12 Practicing the Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH12%20Practicing%20the%20Chain%20Rule%20Quiz.pdf)
+- [L1 CH11 Taming The Beast.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH11%20Taming%20The%20Beast.pdf)
+- [L1 CH10 Chain Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH10%20Chain%20Rule.pdf)
+- [L1 CH9 Practicing the Product Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH9%20Practicing%20the%20Product%20Rule%20Quiz.pdf)
+- [L1 CH8 Product Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH8%20Product%20Rule.pdf)
+- [L1 CH7 Differentiation Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH7%20Differentiation%20Quiz.pdf)
+- [L1 CH6 Differentiation Examples and Special Cases.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH6%20Differentiation%20Examples%20and%20Special%20Cases.pdf)
+- [L1 CH5 Definition of a Derivative.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH5%20Definition%20of%20a%20Derivative.pdf)
+- [L1 CH4 Matching the Graph of a Function to the Graph of its Derivative Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH4%20Matching%20the%20Graph%20of%20a%20Function%20to%20the%20Graph%20of%20its%20Derivative%20Quiz.pdf)
+- [L1 CH3 Rise Over Run.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH3%20Rise%20Over%20Run.pdf)
+- [L1 CH2 Matching Functions Visually.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH2%20Matching%20Functions%20Visually.pdf)
+- [L1 CH1 Functions.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L1%20CH1%20Functions.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)

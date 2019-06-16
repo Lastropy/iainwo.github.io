@@ -1,5 +1,7 @@
 *.*.swp
+*.s*
 *.swp
+*.icloud
 tags
 *.gem
 *.sublime-project
