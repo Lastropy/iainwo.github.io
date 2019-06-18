@@ -14,6 +14,12 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-18 19:19 - L3 CH6 Training Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Training%20Neural%20Networks%20Quiz.pdf)
+1. [2019-JUN-18 19:19 - L3 CH5 More Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20More%20Simple%20Neural%20Networks.pdf)
+1. [2019-JUN-18 19:19 - L3 CH4 Simple Artificial Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH4%20Simple%20Artificial%20Neural%20Networks%20Quiz.pdf)
+1. [2019-JUN-18 19:19 - L3 CH3 Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH3%20Simple%20Neural%20Networks.pdf)
+1. [2019-JUN-18 19:19 - L3 CH2 Multivariate Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20Multivariate%20Chain%20Rule%20Quiz.pdf)
+1. [2019-JUN-18 19:19 - L3 CH1 Introduction and Multivariate Chain Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH1%20Introduction%20and%20Multivariate%20Chain%20Rule.pdf)
 1. [2019-JUN-17 09:08 - L3 CH2 Multivariate Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20Multivariate%20Chain%20Rule%20Quiz.pdf)
 1. [2019-JUN-17 09:08 - L3 CH1 Introduction and Multivariate Chain Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH1%20Introduction%20and%20Multivariate%20Chain%20Rule.pdf)
 
@@ -154,8 +160,13 @@ toc_icon: "heart"
 - [L2 CH7 Sandpit.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH7%20Sandpit.pdf)
 - [L2 CH8 The Hessian.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH8%20The%20Hessian.pdf)
 - [L2 CH9 Calculating Hessians Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L2%20CH9%20Calculating%20Hessians%20Quiz.pdf)
-- [L3 CH2 Multivariate Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20Multivariate%20Chain%20Rule%20Quiz.pdf)
 - [L3 CH1 Introduction and Multivariate Chain Rule.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH1%20Introduction%20and%20Multivariate%20Chain%20Rule.pdf)
+- [L3 CH2 Multivariate Chain Rule Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH2%20Multivariate%20Chain%20Rule%20Quiz.pdf)
+- [L3 CH3 Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH3%20Simple%20Neural%20Networks.pdf)
+- [L3 CH4 Simple Artificial Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH4%20Simple%20Artificial%20Neural%20Networks%20Quiz.pdf)
+- [L3 CH5 More Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20More%20Simple%20Neural%20Networks.pdf)
+- [L3 CH6 Training Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Training%20Neural%20Networks%20Quiz.pdf)
+
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
