@@ -14,6 +14,10 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-20 09:15 - L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
+1. [2019-JUN-20 09:15 - L4 CH3 Matching Functions and Approximations Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Matching%20Functions%20and%20Approximations%20Quiz.pdf)
+1. [2019-JUN-20 09:15 - L4 CH2 Power Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Power%20Series.pdf)
+1. [2019-JUN-20 09:15 - L4 CH1 Building Approximate Functions.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH1%20Building%20Approximate%20Functions.pdf)
 1. [2019-JUN-19 18:46 - L3 CH7 Backpropagation Notebook.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH7%20Backpropagation%20Notebook.pdf)
 1. [2019-JUN-18 19:19 - L3 CH6 Training Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Training%20Neural%20Networks%20Quiz.pdf)
 1. [2019-JUN-18 19:19 - L3 CH5 More Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20More%20Simple%20Neural%20Networks.pdf)
@@ -168,6 +172,10 @@ toc_icon: "heart"
 - [L3 CH5 More Simple Neural Networks.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH5%20More%20Simple%20Neural%20Networks.pdf)
 - [L3 CH6 Training Neural Networks Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH6%20Training%20Neural%20Networks%20Quiz.pdf)
 - [L3 CH7 Backpropagation Notebook.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L3%20CH7%20Backpropagation%20Notebook.pdf)
+- [L4 CH1 Building Approximate Functions.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH1%20Building%20Approximate%20Functions.pdf)
+- [L4 CH2 Power Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Power%20Series.pdf)
+- [L4 CH3 Matching Functions and Approximations Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Matching%20Functions%20and%20Approximations%20Quiz.pdf)
+- [L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
