@@ -14,6 +14,8 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-21 08:34 - L4 CH5 Power Series Details.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Power%20Series%20Details.pdf)
+1. [2019-JUN-21 08:34 - CarletonU What is missing from common practice in machine Learning.pdf](/assets/notes/ML/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
 1. [2019-JUN-20 09:15 - L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
 1. [2019-JUN-20 09:15 - L4 CH3 Matching Functions and Approximations Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Matching%20Functions%20and%20Approximations%20Quiz.pdf)
 1. [2019-JUN-20 09:15 - L4 CH2 Power Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Power%20Series.pdf)
@@ -112,6 +114,7 @@ toc_icon: "heart"
 - [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/ML/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
 - [Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
 - [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
+- [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/ML/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
@@ -176,6 +179,7 @@ toc_icon: "heart"
 - [L4 CH2 Power Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH2%20Power%20Series.pdf)
 - [L4 CH3 Matching Functions and Approximations Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Matching%20Functions%20and%20Approximations%20Quiz.pdf)
 - [L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
+- [L4 CH5 Power Series Details.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Power%20Series%20Details.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)

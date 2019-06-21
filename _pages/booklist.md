@@ -34,6 +34,7 @@ Events attended:<br>
 | 2 | Carleton University | [Data Day 6.0](https://carleton.ca/cuids/cu-events/data-day-6-0/) | |
 | 3 | ML & AI Ottawa | [ML and AI in the Browser](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/258702441/) | |
 | 4 | ML & AI Ottawa | [RL Concepts and how to build RL algorithms with OpeanAI Gym](https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Ottawa/events/261234287/) | [Meetup notes](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf) |
+| 5 | Carleton University | [Fields Workshop on Machine Learning in the Presence of Class Imbalance](https://science.carleton.ca/node/546) | [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/ML/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf) |
 
 Papers read:<br>
 
