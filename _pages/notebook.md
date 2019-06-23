@@ -14,6 +14,16 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-22 11:03 - L4 CH10 Multivariate Taylor.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH10%20Multivariate%20Taylor.pdf)
+1. [2019-JUN-22 11:03 - L4 CH9 Taylor Series Special Cases Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH9%20Taylor%20Series%20Special%20Cases%20Quiz.pdf)
+1. [2019-JUN-22 11:03 - L4 CH8 Linearisation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Linearisation.pdf)
+1. [2019-JUN-22 11:03 - L4 CH7 Taylor Series Examples.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH7%20Taylor%20Series%20Examples.pdf)
+1. [2019-JUN-22 11:03 - L4 CH6 Applying The Taylor Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH6%20Applying%20The%20Taylor%20Series.pdf)
+1. [2019-JUN-22 11:03 - CarletonU - Robin Grosset - Fraud Detection in Class Imbalance.pdf](/assets/notes/ML/CarletonU%20-%20Robin%20Grosset%20-%20Fraud%20Detection%20in%20Class%20Imbalance.pdf)
+1. [2019-JUN-22 11:03 - CarletonU - NLP and Class Imbalance.pdf](/assets/notes/ML/CarletonU%20-%20NLP%20and%20Class%20Imbalance.pdf)
+1. [2019-JUN-22 11:03 - CarletonU - Herna Viktor.pdf](/assets/notes/ML/CarletonU%20-%20Herna%20Viktor.pdf)
+1. [2019-JUN-22 11:03 - CarletonU- Isar Nejadgholi - Privacy Preserving Data Augmentation in Medical Text Processing.pdf](/assets/notes/ML/CarletonU-%20Isar%20Nejadgholi%20-%20Privacy%20Preserving%20Data%20Augmentation%20in%20Medical%20Text%20Processing.pdf)
+1. [2019-JUN-22 11:03 - CarletonU - Benjamin Fung - Authorship and Malware Analysis.pdf](/assets/notes/ML/CarletonU%20-%20Benjamin%20Fung%20-%20Authorship%20and%20Malware%20Analysis.pdf)
 1. [2019-JUN-21 08:34 - L4 CH5 Power Series Details.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Power%20Series%20Details.pdf)
 1. [2019-JUN-21 08:34 - CarletonU What is missing from common practice in machine Learning.pdf](/assets/notes/ML/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
 1. [2019-JUN-20 09:15 - L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
@@ -115,6 +125,11 @@ toc_icon: "heart"
 - [Dropout & Strides.pdf](/assets/notes/ML/Dropout%20%26%20Strides.pdf)
 - [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/ML/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
 - [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/ML/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
+- [CarletonU - Robin Grosset - Fraud Detection in Class Imbalance.pdf](/assets/notes/ML/CarletonU%20-%20Robin%20Grosset%20-%20Fraud%20Detection%20in%20Class%20Imbalance.pdf)
+- [CarletonU - NLP and Class Imbalance.pdf](/assets/notes/ML/CarletonU%20-%20NLP%20and%20Class%20Imbalance.pdf)
+- [CarletonU - Herna Viktor.pdf](/assets/notes/ML/CarletonU%20-%20Herna%20Viktor.pdf)
+- [CarletonU- Isar Nejadgholi - Privacy Preserving Data Augmentation in Medical Text Processing.pdf](/assets/notes/ML/CarletonU-%20Isar%20Nejadgholi%20-%20Privacy%20Preserving%20Data%20Augmentation%20in%20Medical%20Text%20Processing.pdf)
+- [CarletonU - Benjamin Fung - Authorship and Malware Analysis.pdf](/assets/notes/ML/CarletonU%20-%20Benjamin%20Fung%20-%20Authorship%20and%20Malware%20Analysis.pdf)
 
 # Calculus
 ## Axioms of the Real Number System
@@ -180,6 +195,11 @@ toc_icon: "heart"
 - [L4 CH3 Matching Functions and Approximations Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH3%20Matching%20Functions%20and%20Approximations%20Quiz.pdf)
 - [L4 CH4 Power Series Derivation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH4%20Power%20Series%20Derivation.pdf)
 - [L4 CH5 Power Series Details.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH5%20Power%20Series%20Details.pdf)
+- [L4 CH6 Applying The Taylor Series.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH6%20Applying%20The%20Taylor%20Series.pdf)
+- [L4 CH7 Taylor Series Examples.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH7%20Taylor%20Series%20Examples.pdf)
+- [L4 CH8 Linearisation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Linearisation.pdf)
+- [L4 CH9 Taylor Series Special Cases Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH9%20Taylor%20Series%20Special%20Cases%20Quiz.pdf)
+- [L4 CH10 Multivariate Taylor.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH10%20Multivariate%20Taylor.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
