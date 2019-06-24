@@ -14,6 +14,10 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-23 21:24 - L5 CH3 Gradient Descent.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Gradient%20Descent.pdf)
+1. [2019-JUN-23 21:24 - L5 CH2 Newton-Raphson in 1D Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH2%20Newton-Raphson%20in%201D%20Quiz.pdf)
+1. [2019-JUN-23 21:24 - L5 CH1 Intro to Newton-Raphson.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH1%20Intro%20to%20Newton-Raphson.pdf)
+1. [2019-JUN-23 21:24 - L4 CH11 2D Taylor Series Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH11%202D%20Taylor%20Series%20Quiz.pdf)
 1. [2019-JUN-22 11:03 - L4 CH10 Multivariate Taylor.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH10%20Multivariate%20Taylor.pdf)
 1. [2019-JUN-22 11:03 - L4 CH9 Taylor Series Special Cases Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH9%20Taylor%20Series%20Special%20Cases%20Quiz.pdf)
 1. [2019-JUN-22 11:03 - L4 CH8 Linearisation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Linearisation.pdf)
@@ -200,6 +204,10 @@ toc_icon: "heart"
 - [L4 CH8 Linearisation.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH8%20Linearisation.pdf)
 - [L4 CH9 Taylor Series Special Cases Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH9%20Taylor%20Series%20Special%20Cases%20Quiz.pdf)
 - [L4 CH10 Multivariate Taylor.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH10%20Multivariate%20Taylor.pdf)
+- [L4 CH11 2D Taylor Series Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L4%20CH11%202D%20Taylor%20Series%20Quiz.pdf)
+- [L5 CH1 Intro to Newton-Raphson.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH1%20Intro%20to%20Newton-Raphson.pdf)
+- [L5 CH2 Newton-Raphson in 1D Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH2%20Newton-Raphson%20in%201D%20Quiz.pdf)
+- [L5 CH3 Gradient Descent.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Gradient%20Descent.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
