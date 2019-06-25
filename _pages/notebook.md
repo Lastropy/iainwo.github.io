@@ -14,6 +14,9 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-24 21:32 - L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
+1. [2019-JUN-24 21:32 - L5 CH5 Checking Newton-Raphson Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Checking%20Newton-Raphson%20Quiz.pdf)
+1. [2019-JUN-24 21:32 - L5 CH4 Gradient Descent in a Sandpit.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH4%20Gradient%20Descent%20in%20a%20Sandpit.pdf)
 1. [2019-JUN-23 21:24 - L5 CH3 Gradient Descent.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Gradient%20Descent.pdf)
 1. [2019-JUN-23 21:24 - L5 CH2 Newton-Raphson in 1D Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH2%20Newton-Raphson%20in%201D%20Quiz.pdf)
 1. [2019-JUN-23 21:24 - L5 CH1 Intro to Newton-Raphson.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH1%20Intro%20to%20Newton-Raphson.pdf)
@@ -208,6 +211,9 @@ toc_icon: "heart"
 - [L5 CH1 Intro to Newton-Raphson.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH1%20Intro%20to%20Newton-Raphson.pdf)
 - [L5 CH2 Newton-Raphson in 1D Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH2%20Newton-Raphson%20in%201D%20Quiz.pdf)
 - [L5 CH3 Gradient Descent.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH3%20Gradient%20Descent.pdf)
+- [L5 CH4 Gradient Descent in a Sandpit.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH4%20Gradient%20Descent%20in%20a%20Sandpit.pdf)
+- [L5 CH5 Checking Newton-Raphson Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Checking%20Newton-Raphson%20Quiz.pdf)
+- [L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
