@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-26 07:26 - L6 CH1 Simple Linear Regression.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH1%20Simple%20Linear%20Regression.pdf)
 1. [2019-JUN-25 21:33 - L5 CH8 Lagrange Multipliers Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Lagrange%20Multipliers%20Quiz.pdf)
 1. [2019-JUN-24 21:32 - L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
 1. [2019-JUN-24 21:32 - L5 CH5 Checking Newton-Raphson Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Checking%20Newton-Raphson%20Quiz.pdf)
@@ -187,6 +188,7 @@ toc_icon: "heart"
 - [L5 CH5 Checking Newton-Raphson Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Checking%20Newton-Raphson%20Quiz.pdf)
 - [L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
 - [L5 CH8 Lagrange Multipliers Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Lagrange%20Multipliers%20Quiz.pdf)
+- [L6 CH1 Simple Linear Regression.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH1%20Simple%20Linear%20Regression.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
