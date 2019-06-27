@@ -14,6 +14,10 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUN-27 19:29 - L6 CH5 Least Squares Regression in Practice.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH5%20Least%20Squares%20Regression%20in%20Practice.pdf)
+1. [2019-JUN-27 19:29 - L6 CH4 Fitting a Non-Linear Function Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH4%20Fitting%20a%20Non-Linear%20Function%20Quiz.pdf)
+1. [2019-JUN-27 19:29 - L6 CH3 General Non-Linear Least Squares.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH3%20General%20Non-Linear%20Least%20Squares.pdf)
+1. [2019-JUN-27 19:29 - L6 CH2 Linear Regression Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH2%20Linear%20Regression%20Quiz.pdf)
 1. [2019-JUN-26 07:26 - L6 CH1 Simple Linear Regression.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH1%20Simple%20Linear%20Regression.pdf)
 1. [2019-JUN-25 21:33 - L5 CH8 Lagrange Multipliers Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Lagrange%20Multipliers%20Quiz.pdf)
 1. [2019-JUN-24 21:32 - L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
@@ -189,6 +193,10 @@ toc_icon: "heart"
 - [L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
 - [L5 CH8 Lagrange Multipliers Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Lagrange%20Multipliers%20Quiz.pdf)
 - [L6 CH1 Simple Linear Regression.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH1%20Simple%20Linear%20Regression.pdf)
+- [L6 CH2 Linear Regression Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH2%20Linear%20Regression%20Quiz.pdf)
+- [L6 CH3 General Non-Linear Least Squares.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH3%20General%20Non-Linear%20Least%20Squares.pdf)
+- [L6 CH4 Fitting a Non-Linear Function Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH4%20Fitting%20a%20Non-Linear%20Function%20Quiz.pdf)
+- [L6 CH5 Least Squares Regression in Practice.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH5%20Least%20Squares%20Regression%20in%20Practice.pdf)
 
 # Goals
 - [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
