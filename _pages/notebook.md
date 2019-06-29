@@ -14,7 +14,11 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-1. [2019-JUN-27 19:29 - L6 CH5 Least Squares Regression in Practice.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH5%20Least%20Squares%20Regression%20in%20Practice.pdf)
+oursera Mathematics for ML - PCA
+
+1. [2019-JUN-29 08:43 - L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
+1. [2019-JUN-29 08:43 - L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
+1. [2019-JUN-29 08:43 - L1 CH1 Introduction .pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH1%20Introduction%20.pdf)
 1. [2019-JUN-27 19:29 - L6 CH4 Fitting a Non-Linear Function Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH4%20Fitting%20a%20Non-Linear%20Function%20Quiz.pdf)
 1. [2019-JUN-27 19:29 - L6 CH3 General Non-Linear Least Squares.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH3%20General%20Non-Linear%20Least%20Squares.pdf)
 1. [2019-JUN-27 19:29 - L6 CH2 Linear Regression Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH2%20Linear%20Regression%20Quiz.pdf)
@@ -35,6 +39,11 @@ toc_icon: "heart"
 - [TS CH10 Linear Least Squares.pdf](/assets/notes/Statistics/TS%20CH10%20Linear%20Least%20Squares.pdf)
 - [TS CH1 Exploratory Data Analysis.pdf](/assets/notes/Statistics/TS%20CH1%20Exploratory%20Data%20Analysis.pdf)
 - [TS CH7 Relationships Between Variables.pdf](/assets/notes/Statistics/TS%20CH7%20Relationships%20Between%20Variables.pdf)
+
+## Coursera Mathematics for ML - PCA
+- [L1 CH1 Introduction .pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH1%20Introduction%20.pdf)
+- [L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
+- [L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
 
 # Linear Algebra
 - [Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
