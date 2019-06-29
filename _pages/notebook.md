@@ -14,8 +14,6 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-oursera Mathematics for ML - PCA
-
 1. [2019-JUN-29 08:43 - L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
 1. [2019-JUN-29 08:43 - L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
 1. [2019-JUN-29 08:43 - L1 CH1 Introduction .pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH1%20Introduction%20.pdf)
