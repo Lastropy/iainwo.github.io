@@ -14,17 +14,10 @@ toc_icon: "heart"
 
 # Recent Notes 
 
-1. [2019-JUN-29 08:43 - L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
-1. [2019-JUN-29 08:43 - L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
-1. [2019-JUN-29 08:43 - L1 CH1 Introduction .pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH1%20Introduction%20.pdf)
-1. [2019-JUN-27 19:29 - L6 CH4 Fitting a Non-Linear Function Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH4%20Fitting%20a%20Non-Linear%20Function%20Quiz.pdf)
-1. [2019-JUN-27 19:29 - L6 CH3 General Non-Linear Least Squares.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH3%20General%20Non-Linear%20Least%20Squares.pdf)
-1. [2019-JUN-27 19:29 - L6 CH2 Linear Regression Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH2%20Linear%20Regression%20Quiz.pdf)
-1. [2019-JUN-26 07:26 - L6 CH1 Simple Linear Regression.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L6%20CH1%20Simple%20Linear%20Regression.pdf)
-1. [2019-JUN-25 21:33 - L5 CH8 Lagrange Multipliers Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH8%20Lagrange%20Multipliers%20Quiz.pdf)
-1. [2019-JUN-24 21:32 - L5 CH6 Constrained Optimization.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH6%20Constrained%20Optimization.pdf)
-1. [2019-JUN-24 21:32 - L5 CH5 Checking Newton-Raphson Quiz.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH5%20Checking%20Newton-Raphson%20Quiz.pdf)
-1. [2019-JUN-24 21:32 - L5 CH4 Gradient Descent in a Sandpit.pdf](/assets/notes/Calculus/Coursera%20-%20Mathematics%20for%20Machine%20Learning/L5%20CH4%20Gradient%20Descent%20in%20a%20Sandpit.pdf)
+1. [2019-JUL-1 - The Variance of a Shifted Dataset Is the Same.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Shifted%20Dataset%20Is%20the%20Same.pdf)
+1. [2019-JUL-1 - The Variance of a Scaled Datasets.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Scaled%20Datasets.pdf)
+1. [2019-JUL-1 - Incremental Variance.pdf](/assets/notes/Math%20Proofs/Incremental%20Variance.pdf)
+1. [2019-JUL-1 - L1 CH4 Variance of 1D Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH4%20Variance%20of%201D%20Datasets.pdf)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -42,6 +35,7 @@ toc_icon: "heart"
 - [L1 CH1 Introduction .pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH1%20Introduction%20.pdf)
 - [L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
 - [L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
+- [L1 CH4 Variance of 1D Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH4%20Variance%20of%201D%20Datasets.pdf)
 
 # Linear Algebra
 - [Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
@@ -105,6 +99,9 @@ toc_icon: "heart"
 
 # Math Proofs
 - [Sum of N-choose-K.pdf](/assets/notes/Math%20Proofs/Sum%20of%20N-choose-K.pdf)
+- [The Variance of a Shifted Dataset Is the Same.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Shifted%20Dataset%20Is%20the%20Same.pdf)
+- [The Variance of a Scaled Datasets.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Scaled%20Datasets.pdf)
+- [Incremental Variance.pdf](/assets/notes/Math%20Proofs/Incremental%20Variance.pdf)
 
 # ML
 - [Convolutions.pdf](/assets/notes/ML/Convolutions.pdf)
