@@ -8,8 +8,8 @@ main:
     #  url: /posts/
   - title: "Goals"
     url: /goals/
-  - title: "Booklist"
-    url: /booklist/
+  - title: "Research"
+    url: /research/
   - title: "Notebook"
     url: /notebook/
 

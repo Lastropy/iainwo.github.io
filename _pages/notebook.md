@@ -14,10 +14,19 @@ toc_icon: "heart"
 
 # Recent Notes 
 
+1. [2019-JUL-7 - Geometric Expressions of the Intuition Behind An Introspective Approach to Computing Covariance](https://colab.research.google.com/drive/1skP9czJOHIp-1Qp_y4q7EbFSW5HbelTF)
+1. [2019-JUL-7 - L1 CH9 Linear Transformations Effect on (Co)Variance.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH9%20Linear%20Transformations%20Effect%20on%20%28Co%29Variance.pdf)
+1. [2019-JUL-7 - L1 CH8 Effect on the Mean.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH8%20Effect%20on%20the%20Mean.pdf)
+1. [2019-JUL-7 - L1 CH7 Covariance Matrix of a two-dimensional Set.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH7%20Covariance%20Matrix%20of%20a%20two-dimensional%20Set.pdf)
+1. [2019-JUL-7 - L1 CH6 Variance of Higher Dimensional Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH6%20Variance%20of%20Higher%20Dimensional%20Datasets.pdf)
+1. [2019-JUL-7 - L1 CH5 Definiteness of a Matrix.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH5%20Definiteness%20of%20a%20Matrix.pdf)
 1. [2019-JUL-1 - The Variance of a Shifted Dataset Is the Same.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Shifted%20Dataset%20Is%20the%20Same.pdf)
 1. [2019-JUL-1 - The Variance of a Scaled Datasets.pdf](/assets/notes/Math%20Proofs/The%20Variance%20of%20a%20Scaled%20Datasets.pdf)
 1. [2019-JUL-1 - Incremental Variance.pdf](/assets/notes/Math%20Proofs/Incremental%20Variance.pdf)
 1. [2019-JUL-1 - L1 CH4 Variance of 1D Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH4%20Variance%20of%201D%20Datasets.pdf)
+
+# "Unpublished" Papers
+- [Geometric Expressions of the Intuition Behind An Instrospective Approach to Computing Covariance](https://colab.research.google.com/drive/1skP9czJOHIp-1Qp_y4q7EbFSW5HbelTF)
 
 # Statistics
 - [TS CH4 Cumulative Distribution Functions.pdf](/assets/notes/Statistics/TS%20CH4%20Cumulative%20Distribution%20Functions.pdf)
@@ -36,6 +45,11 @@ toc_icon: "heart"
 - [L1 CH2 Mean of a Dataset.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH2%20Mean%20of%20a%20Dataset.pdf)
 - [L1 CH3 Mean of Datasets Quiz.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH3%20Mean%20of%20Datasets%20Quiz.pdf)
 - [L1 CH4 Variance of 1D Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH4%20Variance%20of%201D%20Datasets.pdf)
+- [L1 CH5 Definiteness of a Matrix.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH5%20Definiteness%20of%20a%20Matrix.pdf)
+- [L1 CH6 Variance of Higher Dimensional Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH6%20Variance%20of%20Higher%20Dimensional%20Datasets.pdf)
+- [L1 CH7 Covariance Matrix of a two-dimensional Set.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH7%20Covariance%20Matrix%20of%20a%20two-dimensional%20Set.pdf)
+- [L1 CH8 Effect on the Mean.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH8%20Effect%20on%20the%20Mean.pdf)
+- [L1 CH9 Linear Transformations Effect on (Co)Variance.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH9%20Linear%20Transformations%20Effect%20on%20%28Co%29Variance.pdf)
 
 # Linear Algebra
 - [Change of Basis.pdf](/assets/notes/Linear%20Algebra/Change%20of%20Basis.pdf)
