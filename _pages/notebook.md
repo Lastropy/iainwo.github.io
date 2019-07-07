@@ -25,7 +25,7 @@ toc_icon: "heart"
 1. [2019-JUL-1 - Incremental Variance.pdf](/assets/notes/Math%20Proofs/Incremental%20Variance.pdf)
 1. [2019-JUL-1 - L1 CH4 Variance of 1D Datasets.pdf](/assets/notes/Statistics/Coursera%20Mathematics%20for%20ML%20-%20PCA/L1%20CH4%20Variance%20of%201D%20Datasets.pdf)
 
-# "Unpublished" Papers
+# Unpublished Research Papers
 - [Geometric Expressions of the Intuition Behind An Instrospective Approach to Computing Covariance](https://colab.research.google.com/drive/1skP9czJOHIp-1Qp_y4q7EbFSW5HbelTF)
 
 # Statistics

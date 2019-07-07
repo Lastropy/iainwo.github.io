@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My [Unpublished] Papers :):<br>
+Unpublished Research Papers:<br>
 
 | No. | Date | Title | Description | Link |
 | --- | --- | --- | --- | --- |
