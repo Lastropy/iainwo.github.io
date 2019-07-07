@@ -46,3 +46,4 @@ Papers read:<br>
 | No. | Author | Paper |
 | --- | --- | --- |
 | 1 | | [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) |
+| 2 | Yuli Zhang, Huaiyu Wu, Lei Cheng | [Some new deformation formulas about variance and covariance](https://www.researchgate.net/profile/Yuli_Zhang/publication/261496020_Some_new_deformation_formulas_about_variance_and_covariance/links/54eda4c80cf25da9f7f1274e.pdf) |
