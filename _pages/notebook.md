@@ -1,17 +1,29 @@
 
 ---
+
 layout: single
+
 title: "Notebook"
+
 permalink: /notebook/
+
 author_profile: true
+
 toc: true
+
 toc_label: Notebook
+
 toc_icon: "heart"
+
 ---
+
+
 
 <br><br>
 
+
 2019-MAY-12 and forward, I began using Notability to write notes. Before then, I was using Apple Notes which exported blurry PDFs. If you notice some of the links have blurry notes don't fret, that will no longer be the case going forward - and no it's not your browser that's causing the issue (:
+
 
 # 
 
