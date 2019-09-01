@@ -1,10 +1,10 @@
 ---
-title: Pets
+title: Goals 
 layout: collection
-permalink: /pets/
-collection: pets
+permalink: /goals/
+collection: goals 
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_pets`.
+Sample document listing for the collection `_goals`.
