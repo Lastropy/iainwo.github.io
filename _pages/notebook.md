@@ -43,10 +43,6 @@ toc_icon: "heart"
 ## calculus
 
 
-### Set Theory
-
-- [Basics.pdf](/assets/notes/mathematics/calculus/Set%20Theory/Basics.pdf)
-
 ### 3B1B
 
 - [Integration and the Fundamental Theorem of Calc.pdf](/assets/notes/mathematics/calculus/3B1B/Integration%20and%20the%20Fundamental%20Theorem%20of%20Calc.pdf)
@@ -204,6 +200,8 @@ toc_icon: "heart"
 
 ## set theory
 
+- [Basics.pdf](/assets/notes/mathematics/set%20theory/Basics.pdf)
+- [Exercises 12.5.pdf](/assets/notes/mathematics/set%20theory/Exercises%2012.5.pdf)
 - [Basic Set Notation & Terminology.pdf](/assets/notes/mathematics/set%20theory/Basic%20Set%20Notation%20%26%20Terminology.pdf)
 
 ## problems
