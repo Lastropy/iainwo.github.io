@@ -15,11 +15,9 @@ toc_icon: "heart"
 # 
 
 
-# blog
+# questions
 
-
-# goals
-
+- [Research Questions.pdf](/assets/notes/questions/Research%20Questions.pdf)
 
 # machine learning
 
