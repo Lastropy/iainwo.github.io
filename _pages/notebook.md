@@ -46,9 +46,43 @@ toc_icon: "heart"
 - [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/machine%20learning/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
 - [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/machine%20learning/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
 
+## meetups
+
+- [CarletonU - Benjamin Fung - Authorship and Malware Analysis.pdf](/assets/notes/machine%20learning/meetups/CarletonU%20-%20Benjamin%20Fung%20-%20Authorship%20and%20Malware%20Analysis.pdf)
+- [CarletonU- Isar Nejadgholi - Privacy Preserving Data Augmentation in Medical Text Processing.pdf](/assets/notes/machine%20learning/meetups/CarletonU-%20Isar%20Nejadgholi%20-%20Privacy%20Preserving%20Data%20Augmentation%20in%20Medical%20Text%20Processing.pdf)
+- [CarletonU- hamidreza sadreazami- radar based fall detection with supervised learning.pdf](/assets/notes/machine%20learning/meetups/CarletonU-%20hamidreza%20sadreazami-%20radar%20based%20fall%20detection%20with%20supervised%20learning.pdf)
+- [CarletonU - NLP and Class Imbalance.pdf](/assets/notes/machine%20learning/meetups/CarletonU%20-%20NLP%20and%20Class%20Imbalance.pdf)
+- [CarletonU - Robin Grosset - Fraud Detection in Class Imbalance.pdf](/assets/notes/machine%20learning/meetups/CarletonU%20-%20Robin%20Grosset%20-%20Fraud%20Detection%20in%20Class%20Imbalance.pdf)
+- [CarletonU - Herna Viktor.pdf](/assets/notes/machine%20learning/meetups/CarletonU%20-%20Herna%20Viktor.pdf)
+- [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/machine%20learning/meetups/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
+- [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/machine%20learning/meetups/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
+
 ## kaggle
 
 - [Dans Becker - Airline Price Optimization Micro Challenge.pdf](/assets/notes/machine%20learning/kaggle/Dans%20Becker%20-%20Airline%20Price%20Optimization%20Micro%20Challenge.pdf)
+
+## neural nets
+
+- [Convolutions.pdf](/assets/notes/machine%20learning/neural%20nets/Convolutions.pdf)
+- [Transfer Learning.pdf](/assets/notes/machine%20learning/neural%20nets/Transfer%20Learning.pdf)
+- [Dropout & Strides.pdf](/assets/notes/machine%20learning/neural%20nets/Dropout%20%26%20Strides.pdf)
+- [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/machine%20learning/neural%20nets/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
+
+## decision trees
+
+- [Random Forest Deep Dive and Decision Trees.pdf](/assets/notes/machine%20learning/decision%20trees/Random%20Forest%20Deep%20Dive%20and%20Decision%20Trees.pdf)
+
+## ensembles
+
+- [Bagging Predictors.pdf](/assets/notes/machine%20learning/ensembles/Bagging%20Predictors.pdf)
+
+### random forests
+
+- [Introduction to Random Forests.pdf](/assets/notes/machine%20learning/ensembles/random%20forests/Introduction%20to%20Random%20Forests.pdf)
+
+## eslii
+
+- [Overview of Supervised Learning.pdf](/assets/notes/machine%20learning/eslii/Overview%20of%20Supervised%20Learning.pdf)
 
 # mathematics
 
@@ -166,9 +200,6 @@ toc_icon: "heart"
 - [Expectation of Functions of Multivariate Random Variables.pdf](/assets/notes/mathematics/probability/Expectation%20of%20Functions%20of%20Multivariate%20Random%20Variables.pdf)
 - [Random Variables.pdf](/assets/notes/mathematics/probability/Random%20Variables.pdf)
 - [Basic Probability Theory.pdf](/assets/notes/mathematics/probability/Basic%20Probability%20Theory.pdf)
-
-## problems
-
 
 ## set theory
 
