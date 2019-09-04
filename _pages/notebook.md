@@ -26,25 +26,9 @@ toc_icon: "heart"
 
 # machine learning
 
-- [Convolutions.pdf](/assets/notes/machine%20learning/Convolutions.pdf)
-- [Random Forest Deep Dive and Decision Trees.pdf](/assets/notes/machine%20learning/Random%20Forest%20Deep%20Dive%20and%20Decision%20Trees.pdf)
 - [Hyperparameter Optimization.pdf](/assets/notes/machine%20learning/Hyperparameter%20Optimization.pdf)
-- [CarletonU - Benjamin Fung - Authorship and Malware Analysis.pdf](/assets/notes/machine%20learning/CarletonU%20-%20Benjamin%20Fung%20-%20Authorship%20and%20Malware%20Analysis.pdf)
-- [CarletonU- Isar Nejadgholi - Privacy Preserving Data Augmentation in Medical Text Processing.pdf](/assets/notes/machine%20learning/CarletonU-%20Isar%20Nejadgholi%20-%20Privacy%20Preserving%20Data%20Augmentation%20in%20Medical%20Text%20Processing.pdf)
-- [Overview of Supervised Learning.pdf](/assets/notes/machine%20learning/Overview%20of%20Supervised%20Learning.pdf)
 - [Заметка 21 июля 2019 г..pdf](/assets/notes/machine%20learning/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0%2021%20%D0%B8%D1%8E%D0%BB%D1%8F%202019%20%D0%B3..pdf)
-- [Introduction to Random Forests.pdf](/assets/notes/machine%20learning/Introduction%20to%20Random%20Forests.pdf)
-- [CarletonU- hamidreza sadreazami- radar based fall detection with supervised learning.pdf](/assets/notes/machine%20learning/CarletonU-%20hamidreza%20sadreazami-%20radar%20based%20fall%20detection%20with%20supervised%20learning.pdf)
-- [Transfer Learning.pdf](/assets/notes/machine%20learning/Transfer%20Learning.pdf)
-- [Dropout & Strides.pdf](/assets/notes/machine%20learning/Dropout%20%26%20Strides.pdf)
 - [Data Leakage.pdf](/assets/notes/machine%20learning/Data%20Leakage.pdf)
-- [CarletonU - NLP and Class Imbalance.pdf](/assets/notes/machine%20learning/CarletonU%20-%20NLP%20and%20Class%20Imbalance.pdf)
-- [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/machine%20learning/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
-- [CarletonU - Robin Grosset - Fraud Detection in Class Imbalance.pdf](/assets/notes/machine%20learning/CarletonU%20-%20Robin%20Grosset%20-%20Fraud%20Detection%20in%20Class%20Imbalance.pdf)
-- [CarletonU - Herna Viktor.pdf](/assets/notes/machine%20learning/CarletonU%20-%20Herna%20Viktor.pdf)
-- [Bagging Predictors.pdf](/assets/notes/machine%20learning/Bagging%20Predictors.pdf)
-- [CarletonU - What is missing from common practice in machine Learning.pdf](/assets/notes/machine%20learning/CarletonU%20-%20What%20is%20missing%20from%20common%20practice%20in%20machine%20Learning.pdf)
-- [Meetup_ Reinforcement Learning and how to build RL algos with OpenAI Gym - Mindbridge.pdf](/assets/notes/machine%20learning/Meetup_%20Reinforcement%20Learning%20and%20how%20to%20build%20RL%20algos%20with%20OpenAI%20Gym%20-%20Mindbridge.pdf)
 
 ## meetups
 
