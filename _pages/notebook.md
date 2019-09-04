@@ -17,12 +17,9 @@ toc_icon: "heart"
 
 # blog
 
-- [Questions?.pdf](/assets/notes/blog/Questions%3F.pdf)
-- [Short-Term Goals.pdf](/assets/notes/blog/Short-Term%20Goals.pdf)
 
 # goals
 
-- [Short-Term Goals.pdf](/assets/notes/goals/Short-Term%20Goals.pdf)
 
 # machine learning
 
