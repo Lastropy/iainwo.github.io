@@ -22,6 +22,7 @@ toc_icon: "heart"
 
 # goals
 
+- [Short-Term Goals.pdf](/assets/notes/goals/Short-Term%20Goals.pdf)
 
 # machine learning
 
@@ -48,10 +49,6 @@ toc_icon: "heart"
 ## kaggle
 
 - [Dans Becker - Airline Price Optimization Micro Challenge.pdf](/assets/notes/machine%20learning/kaggle/Dans%20Becker%20-%20Airline%20Price%20Optimization%20Micro%20Challenge.pdf)
-
-# Goals
-
-- [Short-Term Goals.pdf](/assets/notes/Goals/Short-Term%20Goals.pdf)
 
 # mathematics
 
@@ -177,7 +174,6 @@ toc_icon: "heart"
 
 - [Basics.pdf](/assets/notes/mathematics/set%20theory/Basics.pdf)
 - [Basic Set Notation & Terminology.pdf](/assets/notes/mathematics/set%20theory/Basic%20Set%20Notation%20%26%20Terminology.pdf)
-- [Exercises 12.5.pdf](/assets/notes/mathematics/set%20theory/Exercises%2012.5.pdf)
 
 ## proofs
 
