@@ -281,3 +281,7 @@ toc_icon: "heart"
 - [DL_ Stochastic Gradient Descent, Backpropagation & ReLu.pdf](/assets/notes/machine%20learning/neural%20nets/DL_%20Stochastic%20Gradient%20Descent%2C%20Backpropagation%20%26%20ReLu.pdf)
 - [Convolutions.pdf](/assets/notes/machine%20learning/neural%20nets/Convolutions.pdf)
 
+## classification
+
+- [The Confusion Matrix.pdf](/assets/notes/machine%20learning/classification/The%20Confusion%20Matrix.pdf)
+
