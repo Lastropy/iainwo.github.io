@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # 
 
+- [Shapley_ A value for n-person games.pdf](/assets/notes/Shapley_%20A%20value%20for%20n-person%20games.pdf)
 
 # mathematics
 
@@ -115,6 +116,10 @@ toc_icon: "heart"
 - [L3 CH8 Solving Linear Equations Using the Inverse of a Matrix Quiz.pdf](/assets/notes/mathematics/linear%20algebra/math4ml/L3%20CH8%20Solving%20Linear%20Equations%20Using%20the%20Inverse%20of%20a%20Matrix%20Quiz.pdf)
 - [L2 CH4 Dot Product of Vectors Quiz.pdf](/assets/notes/mathematics/linear%20algebra/math4ml/L2%20CH4%20Dot%20Product%20of%20Vectors%20Quiz.pdf)
 - [L5 CH8 Introduction to PageRank.pdf](/assets/notes/mathematics/linear%20algebra/math4ml/L5%20CH8%20Introduction%20to%20PageRank.pdf)
+
+## category theory
+
+- [Homomorphisms.pdf](/assets/notes/mathematics/category%20theory/Homomorphisms.pdf)
 
 ## statistics
 
