@@ -14,6 +14,7 @@ toc_icon: "heart"
 
 # 
 
+- [Intuitive Explanation of Shapley Values.pdf](/assets/notes/Intuitive%20Explanation%20of%20Shapley%20Values.pdf)
 - [Shapley_ A value for n-person games.pdf](/assets/notes/Shapley_%20A%20value%20for%20n-person%20games.pdf)
 
 # questions
