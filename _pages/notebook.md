@@ -288,6 +288,10 @@ toc_icon: "heart"
 
 - [The Confusion Matrix.pdf](/assets/notes/machine%20learning/classification/The%20Confusion%20Matrix.pdf)
 
+## stochastic decision theory
+
+- [Notes 2_ Why does Deep and Cheap Learning work so well?.pdf](/assets/notes/machine%20learning/stochastic%20decision%20theory/Notes%202_%20Why%20does%20Deep%20and%20Cheap%20Learning%20work%20so%20well%3F.pdf)
+
 ## kaggle
 
 - [Dans Becker - Airline Price Optimization Micro Challenge.pdf](/assets/notes/machine%20learning/kaggle/Dans%20Becker%20-%20Airline%20Price%20Optimization%20Micro%20Challenge.pdf)
